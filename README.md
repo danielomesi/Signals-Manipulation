@@ -25,6 +25,9 @@ N=12
 ![Odd Signal](./Images/N=12.jpg)
 
 Other options:
+
 -Flip a signal
+
 -Multiply a signal by a scalar
+
 -Sum signals
